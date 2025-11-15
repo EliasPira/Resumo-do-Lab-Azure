@@ -1,4 +1,4 @@
-# 📘 Certificação Microsoft Azure AI-900 — Introdução aos Conceitos Básicos
+# 📘 Certificação Microsoft Azure AZ-900 — Introdução aos Conceitos Básicos
 
 ![Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Fundamentals-blue?logo=microsoft-azure)
 ![DIO Badge](https://img.shields.io/badge/DIO%20Bootcamp-AZ--900%20Fundamentos-purple?logo=data:image/svg+xml;base64,...)
